@@ -4,8 +4,8 @@
 **Detector** is a Python library that detects technologies used by websites. It analyzes HTML content and HTTP headers to detect various technologies like frameworks, libraries, and server software.
 
 ## Language Versions
-- [Marathi README](README_mr.md)
-- [English README](README_en.md)
+- [Marathi README](README_MR.md)
+- [English README](README_EN.md)
 
 
 ## Features
