@@ -21,7 +21,7 @@ pip install detector
 Alternatively, clone this repository and install dependencies manually:
 
 ```bash
-git clone https://github.com/yourusername/Detector.git
+git clone https://github.com/Prathameshsci369/Detector.git
 cd Detector
 pip install -r requirements.txt
 ```
