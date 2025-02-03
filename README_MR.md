@@ -21,7 +21,7 @@ pip install detector
 किंवा, या रिपॉझिटरीला क्लोन करून निर्भरता मॅन्युअली स्थापित करा:
 
 ```bash
-git clone https://github.com/yourusername/Detector.git
+git clone https://github.com/Prathameshsci369/Detector.git
 cd Detector
 pip install -r requirements.txt
 ```
