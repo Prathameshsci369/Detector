@@ -1,4 +1,4 @@
-import re  # नियमित अभिव्यक्तींसाठी (For regular expressions)
+import re  # regular expression (For regular expressions)
 import json  # JSON डेटा हाताळण्यासाठी (For handling JSON data)
 import logging  # लॉगिंगसाठी (For logging)
 import requests  # HTTP विनंत्या करण्यासाठी (For making HTTP requests)
