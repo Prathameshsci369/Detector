@@ -1,8 +1,8 @@
 
 
-# Detector
+# TechFinder
 
-**Detector** is a Python library designed to detect technologies used on websites. It checks both the HTML content and HTTP headers of a given URL to identify various technologies like frameworks, libraries, and server software. The library provides both default patterns and support for user-defined patterns via a JSON configuration file.
+**TechFinder** is a Python library designed to detect technologies used on websites. It checks both the HTML content and HTTP headers of a given URL to identify various technologies like frameworks, libraries, and server software. The library provides both default patterns and support for user-defined patterns via a JSON configuration file.
 
 ## Features
 - **Technology Detection**: Detects web technologies such as frameworks (e.g., React, Angular), server technologies (e.g., Apache, Nginx), and cloud services (e.g., AWS, Google Cloud).
@@ -12,10 +12,10 @@
 
 ## Installation
 
-To install the **Detector** library, run the following command:
+To install the **techfinder** library, run the following command:
 
 ```bash
-pip install detector
+pip install techfinder
 ```
 
 Alternatively, clone this repository and install dependencies manually:
@@ -122,7 +122,7 @@ detected_tech = detector.final_function('https://invalid-url.com')
 
 ### Use Case 1: Identify Web Frameworks and Libraries
 
-**Detector** can be used to determine what frameworks and libraries a website is using. For example, detecting if a website uses React, Vue.js, or Angular.
+**techfinder** can be used to determine what frameworks and libraries a website is using. For example, detecting if a website uses React, Vue.js, or Angular.
 
 ```python
 detector = Detector()
@@ -161,7 +161,7 @@ This allows you to track and detect technologies that are unique to your environ
 
 ### Use Case 4: Monitor Technology Changes
 
-By integrating **Detector** into your monitoring tools, you can keep track of which technologies are being used on various websites over time. This could be useful for identifying when websites update their tech stack.
+By integrating **techfinder** into your monitoring tools, you can keep track of which technologies are being used on various websites over time. This could be useful for identifying when websites update their tech stack.
 
 ```python
 detector = Detector()
@@ -172,5 +172,5 @@ detected_tech = detector.final_function(url)
 
 ## Contributing
 
-We welcome contributions to the **Detector** library! If you'd like to report bugs, suggest new features, or help improve the documentation, feel free to open an issue or submit a pull request.
+We welcome contributions to the **techfinder** library! If you'd like to report bugs, suggest new features, or help improve the documentation, feel free to open an issue or submit a pull request.
 
