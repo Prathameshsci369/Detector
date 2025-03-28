@@ -1,7 +1,7 @@
 
 # Detector
 
-**Detector** is a Python library that detects technologies used by websites. It analyzes HTML content and HTTP headers to detect various technologies like frameworks, libraries, and server software.
+**TechFinder** is a Python library that detects technologies used by websites. It analyzes HTML content and HTTP headers to detect various technologies like frameworks, libraries, and server software.
 
 ## Language Versions
 - [मराठी  README](README_MR.md)
